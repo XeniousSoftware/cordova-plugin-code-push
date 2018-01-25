@@ -1,9 +1,9 @@
 {
-  "name": "cordova-plugin-code-push",
-  "version": "1.11.3",
+  "name": "xenious-cordova-plugin-code-push",
+  "version": "1.0.0",
   "description": "CodePush Plugin for Apache Cordova",
   "cordova": {
-    "id": "cordova-plugin-code-push",
+    "id": "xenious-cordova-plugin-code-push",
     "platforms": [
       "android",
       "ios"
